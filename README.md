@@ -1,9 +1,11 @@
 # noodlebot-arudino
 Testing arduino code
 
-## Using Arduino Uno Rev 3
+### Using Arduino Uno Rev 3
 
-Included libraries
+## Usage
+
+### Use arduino library manager to install relavent dependancies
 
 | Item                                                | Function          | Arduino library Name    | Noetes                |
 |:----------------------------------------------------|:------------------|:------------------------|:----------------------|
